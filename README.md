@@ -1,2 +1,2 @@
 # DenverModII
-DenverModII, a mod for Terraria using tModLoader
+A random Terraria mod.
