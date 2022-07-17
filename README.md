@@ -1,2 +1,2 @@
-# Denver's Secondary Terraria Mod
-A random Terraria mod.
+# Wooden Shortswords
+A Terraria mod that adds wooden shortswords.
